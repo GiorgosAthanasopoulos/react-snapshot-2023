@@ -1,0 +1,43 @@
+h1 {
+    color: #061736;
+    font-size: 30px;
+    font-family: "JetBrains Mono", monospace;
+}
+
+#app {
+    text-align: center;
+}
+
+input {
+    background-color: #edeff1;
+    width: 300px;
+    height: 25px;
+    padding: 10px;
+    font-size: 25px;
+    font-family: "JetBrains Mono", monospace;
+}
+
+button {
+    background-color: #061736;
+    color: white;
+    font-family: "JetBrains Mono", monospace;
+    padding: 10px;
+    border: 1px solid transparent;
+}
+
+button:hover {
+    scale: 1.2;
+}
+
+#buttons {
+    margin-top: 30px;
+}
+
+#buttons * {
+    margin: 10px;
+}
+
+img {
+    width: 256px;
+    height: 256px;
+}
